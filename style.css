@@ -1,0 +1,45 @@
+.sektor {
+  background-color: aqua;
+}
+.title {
+  font-size: 30px;
+  color: chocolate;
+  margin-top: 15px;
+  margin-bottom: 25px;
+  margin-left: 350px;
+  margin-right: 350px;
+}
+.form {
+  background-color: bisque;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  align-items: center;
+}
+.input1 {
+  width: 400px;
+  height: 50px;
+  background-color: azure;
+}
+.input2 {
+  width: 400px;
+  height: 50px;
+  background-color: beige;
+}
+.input3 {
+  width: 400px;
+  height: 50px;
+  background-color: cadetblue;
+}
+.input4 {
+  width: 400px;
+  height: 50px;
+  background-color: blanchedalmond;
+}
+.btn-form {
+  width: 100px;
+  height: 30px;
+  align-items: center;
+}
