@@ -42,4 +42,7 @@
   width: 100px;
   height: 30px;
   align-items: center;
+  border-radius: 2px;
+
+  color: red;
 }
